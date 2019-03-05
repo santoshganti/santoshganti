@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/santoshganti/santoshganti/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Santosh Ganti and I am currently studying masters in Computer Science at Boston University. My passion for computer science started with video games and I have continued to develop my skills from an early age. 
 
-### Markdown
+In my free time, I read a lot of books, watch a lot of tv shows and movies. I am currently learning to play piano along with music theory. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
 
-```markdown
-Syntax highlighted code block
+## Research Interest
 
-# Header 1
-## Header 2
-### Header 3
+My main research focus is Artificial Intelligence/Machine Learning with a minor focus on Data Analytics and Visualization. 
 
-- Bulleted
-- List
+I have taken the following courses in Fall 2018 Semester at BU: 
 
-1. Numbered
-2. List
+1. Distributed Systems
+2. Introduction to Cryptography
+3. Foundation Analytics with R
+4. Analysis of Algorithms
 
-**Bold** and _Italic_ and `Code` text
+Below are my spring semester courses at BU: 
 
-[Link](url) and ![Image](src)
-```
+1. Artificial Intelligence
+2. Machine Learning
+3. Data Mining
+4. Data Visualization with R
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I am in a way taking courses which overlap and learning both supervised and unsupervised learning. 
 
-### Jekyll Themes
+## Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/santoshganti/santoshganti/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact me at gantis@bu.edu. I'm actively looking to collaborate and create new projects all the time. 
